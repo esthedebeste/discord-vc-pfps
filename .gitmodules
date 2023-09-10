@@ -1,12 +1,12 @@
 [submodule "simple-2d"]
-	path = simple-2d
+	path = dependencies/simple-2d
 	url = https://github.com/esthedebeste/simple-2d
 [submodule "rapidjson"]
-	path = rapidjson
+	path = dependencies/rapidjson
 	url = https://github.com/Tencent/rapidjson
 [submodule "mbedtls"]
-	path = mbedtls
+	path = dependencies/mbedtls
 	url = https://github.com/Mbed-TLS/mbedtls
 [submodule "IXWebSocket"]
-	path = IXWebSocket
+	path = dependencies/IXWebSocket
 	url = https://github.com/esthedebeste/IXWebSocket
